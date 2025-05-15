@@ -14,7 +14,7 @@ repomining3.py – Script to extract github contribution data from GitHub using 
 
 Merging.py – Script to map GitHub usernames to anonymized student IDs.
 
-Project.ipynb – Jupyter notebook performing clustering, GPT labeling, and behavior analysis.
+Project.ipynb – Jupyter notebook performing clustering, GPT labeling, and behavior classification.
 
 <h3>Setup:</h3>
 
