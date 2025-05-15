@@ -30,7 +30,7 @@ Step1: Open repomining3.py
 Step2: Paste your github token in the code.
 
 Step3: Run the script to generate a new PR data.
-python3 repomining3.py
+<p> python3 repomining3.py <\p>
 
 </div></li>
 
@@ -39,7 +39,7 @@ python3 repomining3.py
 To Merge the student's GitHub ID's with their assigned student ID's:
 
 Step1: run the merging.py script
-python3 Merging.py
+<p> python3 Merging.py </p> 
 
 </div></li>
 
@@ -52,7 +52,7 @@ Step1: Open Project.ipynb
 Step2: Paste the OpenAI token to access the GPT classification
 
 Step3: Run the notebook. 
-jupyter notebook Project.ipynb
+<p>jupyter notebook Project.ipynb</p>
 
 </div></li>
 </ol>
