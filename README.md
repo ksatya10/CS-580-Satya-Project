@@ -35,6 +35,14 @@ Step3: Run the script to generate a new PR data.
 
 <li><div>
 
+To Merge the student's GitHub ID's with their assigned student ID's:
+
+Step1: run repomining3.py
+
+</div></li>
+
+<li><div>
+
 Run the Project.ipynb file to see the student contributions:
 
 Step1: Open Project.ipynb
