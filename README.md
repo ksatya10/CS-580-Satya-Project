@@ -30,7 +30,7 @@ Step1: Open repomining3.py
 Step2: Paste your github token in the code.
 
 Step3: Run the script to generate a new PR data.
-<p> python3 repomining3.py <\p>
+<p> python3 repomining3.py </p>
 
 </div></li>
 
